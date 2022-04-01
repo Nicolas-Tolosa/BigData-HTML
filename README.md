@@ -1,4 +1,8 @@
 # FirstRepository
+This is my new repository on GitHub for BigData class
 
 ## First Class
-This is my new repository on GitHub for BigData class
+We made the introduction to the course
+
+
+
