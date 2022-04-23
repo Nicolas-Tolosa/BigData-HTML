@@ -1,0 +1,24 @@
+/* .tablas es una clase creada en el html*/
+.grid {
+  display: grid;
+  grid-template-columns: 20% 80%;
+  gap: 2em;
+}
+.navegacion {
+  background-color: purple;
+}
+.cuerpo {
+  background-color: blue;
+}
+.imagen {
+  display: grid;
+  width: 80%;
+}
+
+p {
+  display: grid;
+  color: #303f4d;
+  width: 80%;
+  background-color: red;
+}
+
